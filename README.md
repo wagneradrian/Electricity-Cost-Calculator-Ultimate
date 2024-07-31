@@ -2,9 +2,13 @@
 
 This electricity cost calculator will show you exactly how much power your appliances use and how much that costs you. Just enter a few values and you'll get a result right away.
 
-## Screenshot
+## Screenshot 1
 
-<img src="Screenshots/EN_dark.png" alt="Screenshot" width="300">
+<img src="Screenshots/EN_dark1.png" alt="Screenshot 1" width="300">
+
+## Screenshot 2
+
+<img src="Screenshots/EN_dark2.png" alt="Screenshot 2" width="300">
 
 ## Download
 
